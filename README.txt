@@ -1,0 +1,2 @@
+Program uses a linked list data structure to store key value pairs as nodes. 
+Data is both read in from a file at the start and subsequently stored in the same file at the end of the program as a list of pairs seperated by a comma, each on a seperate new line.
